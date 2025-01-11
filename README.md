@@ -12,24 +12,25 @@
 
 ---
 
-Software Developer: [@SeekerVs](https://github.com/SeekerVs)
+## Team Credits
 
-App UI Designer:  [@EvidJamito](https://github.com/EvidJamito)
+### Software Developer  
+- [@SeekerVs](https://github.com/SeekerVs)
 
-Electronic Technician: Jonel JR Alonte
-                       [@SeekerVs](https://github.com/SeekerVs)
+### App UI Designer  
+- [@EvidJamito](https://github.com/EvidJamito)
 
-Diorama Designers: Precy Benalla
+### Electronic Technician  
+- Jonel JR Alonte  
+- [@SeekerVs](https://github.com/SeekerVs)
 
-                   Marc Arvel Salvador
-                   
-                   Jonel JR Alonte
-                   
-                   Reymar Villanueva
-                   
-                   Evid Jamito
-                   
-                   Ishie Lopez
+### Diorama Designers  
+- Precy Benalla  
+- Marc Arvel Salvador  
+- Jonel JR Alonte  
+- Reymar Villanueva  
+- Evid Jamito  
+- Ishie Lopez
                    
  
 ---
