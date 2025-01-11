@@ -20,10 +20,15 @@ Electronic Technician: Jonel JR Alonte
                        [@SeekerVs](https://github.com/SeekerVs)
 
 Diorama Designers: Precy Benalla
+
                    Marc Arvel Salvador
+                   
                    Jonel JR Alonte
+                   
                    Reymar Villanueva
+                   
                    Evid Jamito
+                   
                    Ishie Lopez
                    
  
