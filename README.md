@@ -4,11 +4,25 @@
 
 ### Key Highlights:
 
-- Equiped with Google authentication
-- Consist of 6 modes, each mode has different configurations (Night Mode, Ambient Mode, Sentry Mode, Party Mode, Christmas Mode, Custom Mode)
-- In custom mode users can interact with each integrated components such as, music change, fountain mode, light posts, spot light, and laser
-- It has light sensor, water level sensor, voltage sensor, and sound sensor
-- Can be operated using either a power adapter or battery
+- **Google Authentication**: Equipped with secure Google authentication for user access.  
+- **Six Modes with Unique Configurations**:  
+  - **Night Mode**  
+  - **Ambient Mode**  
+  - **Sentry Mode**  
+  - **Party Mode**  
+  - **Christmas Mode**  
+  - **Custom Mode**: Users can interact with integrated components such as:  
+    - Music change  
+    - Fountain mode  
+    - Light posts  
+    - Spotlights  
+    - Laser  
+- **Integrated Sensors**:  
+  - Light sensor  
+  - Water level sensor  
+  - Voltage sensor  
+  - Sound sensor  
+- **Power Options**: Operates using either a power adapter or battery for flexibility.  
 
 ---
 
