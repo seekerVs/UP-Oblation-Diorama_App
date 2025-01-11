@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">UP Oblation Diorama App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="client_id">151064210721-qfog3iubl6lgb6mq7tdm6o0gj9ij2sg0.apps.googleusercontent.com</string>
+
+    <string-array name="device_modes">
+        <item>Ambient Mode</item>
+        <item>Night Mode</item>
+        <item>Party Mode</item>
+        <item>Christmas Mode</item>
+        <item>Sentry Mode</item>
+        <item>Custom Mode</item>
+    </string-array>
+
+    <string-array name="component_states">
+        <item>Fast Blink</item>
+        <item>Slow Blink</item>
+        <item>Random</item>
+        <item>Steady</item>
+        <item>Off</item>
+    </string-array>
+
+    <string-array name="music_names">
+        <item>UP Hymn</item>
+        <item>Christmas Mashup</item>
+        <item>Party Mashup</item>
+        <item>Ambient</item>
+        <item>Bass Boosted</item>
+        <item>Jose Mari Chan Mashup</item>
+        <item>APT</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="switch_states">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+</resources>

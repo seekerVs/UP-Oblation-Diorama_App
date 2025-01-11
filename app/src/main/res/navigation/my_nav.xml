@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="net.techcndev.upoblationdioramaapp.DashboardFragment"
+        android:label="fragment_dashboard"
+        tools:layout="@layout/fragment_dashboard" >
+        <action
+            android:id="@+id/action_dashboardFragment_to_controlsFragment3"
+            app:destination="@id/controlsFragment2"
+            app:enterAnim="@animator/slide_in_left"
+            app:exitAnim="@animator/slide_out_right"/>
+        <action
+            android:id="@+id/action_dashboardFragment_to_settingsFragment2"
+            app:destination="@id/settingsFragment3"
+            app:enterAnim="@animator/slide_in_left"
+            app:exitAnim="@animator/slide_out_right" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_signinFragment"
+            app:destination="@id/signinFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/controlsFragment2"
+        android:name="net.techcndev.upoblationdioramaapp.ControlsFragment"
+        android:label="fragment_controls"
+        tools:layout="@layout/fragment_controls" >
+        <action
+            android:id="@+id/action_controlsFragment_to_dashboardFragment3"
+            app:destination="@id/dashboardFragment"
+            app:enterAnim="@animator/slide_in_left"
+            app:exitAnim="@animator/slide_out_right" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/settingsFragment3"
+        android:name="net.techcndev.upoblationdioramaapp.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" >
+        <action
+            android:id="@+id/action_settingsFragment_to_dashboardFragment2"
+            app:destination="@id/dashboardFragment"
+            app:enterAnim="@animator/slide_in_left"
+            app:exitAnim="@animator/slide_out_right" />
+        <action
+            android:id="@+id/action_settingsFragment3_to_aboutFragment"
+            app:destination="@id/aboutFragment"
+            app:enterAnim="@anim/slide_in"
+            app:exitAnim="@anim/slide_out"/>
+        <action
+            android:id="@+id/action_settingsFragment3_to_signinFragment"
+            app:destination="@id/signinFragment"
+            app:popUpTo="@id/signinFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"/>
+    </fragment>
+    <fragment
+        android:id="@+id/signinFragment"
+        android:name="net.techcndev.upoblationdioramaapp.SigninFragment"
+        android:label="fragment_signin"
+        tools:layout="@layout/fragment_signin" >
+        <action
+            android:id="@+id/action_signinFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment"
+            app:popUpTo="@id/signinFragment"
+            app:popUpToInclusive="true"
+            app:enterAnim="@anim/pop_in"
+            app:exitAnim="@anim/pop_out"/>
+    </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="net.techcndev.upoblationdioramaapp.AboutFragment"
+        android:label="fragment_about"
+        tools:layout="@layout/fragment_about" >
+        <action
+            android:id="@+id/action_aboutFragment_to_settingsFragment3"
+            app:destination="@id/settingsFragment3"
+            app:enterAnim="@anim/slide_in"
+            app:exitAnim="@anim/slide_out" />
+    </fragment>
+
+</navigation>
