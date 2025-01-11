@@ -12,7 +12,8 @@
   - **Party Mode**  
   - **Christmas Mode**  
   - **Custom Mode**: Users can interact with integrated components such as:  
-    - Music change  
+    - Music change
+    - Sound volume change
     - Fountain mode  
     - Light posts  
     - Spotlights  
