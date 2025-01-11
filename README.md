@@ -45,16 +45,21 @@
 - Reymar Villanueva  
 - Evid Jamito  
 - Ishie Lopez
-                   
- 
+
 ---
 
-![Login Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/Demo%20Images/login.jpg)
+![Image](https://raw.githubusercontent.com/seekerVs/UP-Oblation-Diorama_App/main/demo%20images/35f05761-01ff-42af-ad50-6f723df375db.jpg)
 
-![Main Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/Demo%20Images/main.jpg)
+![Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/demo%20images/36520556-7697-4605-9f49-8a8f501f1edf.jpg)
 
-![Loading Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/Demo%20Images/load.jpg)
+![Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/demo%20images/462570009_9082795685141196_4049465715204608446_n.jpg)
 
-![FAQ Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/Demo%20Images/faq.jpg)
+![Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/demo%20images/905e5b6a-a46c-4c14-aaa2-e532404f76d1.jpg)
 
-![About Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/Demo%20Images/about.jpg)
+![Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/demo%20images/9e71e9ca-80e5-4f1b-9c12-fedc010adf0e.jpg)
+
+![Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/demo%20images/Screenshot_20241214-132059.jpg)
+
+![Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/demo%20images/Screenshot_20241214-132059.jpg)
+
+![Image](https://raw.githubusercontent.com/seekerVs/CNSC-AI-Support-Website/main/demo%20images/a457dac2-e23e-4a1f-b1b3-a8e26dbc1ffb.jpg)
