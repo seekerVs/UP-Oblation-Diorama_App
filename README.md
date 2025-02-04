@@ -65,9 +65,6 @@
     <td>Evid Jamito</td>
     <td>Ishie Lopez</td>
   </tr>
-  <tr>
-    <td>Marc Arvel Salvador</td>
-  </tr>
 </table>
 
 ---
