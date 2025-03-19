@@ -29,7 +29,7 @@
 
 ## Team Credits
 
-### Software Developer  
+### IoT Developer  
 <table>
   <tr>
     <td><a href="https://github.com/SeekerVs">SeekerVs</a></td>
